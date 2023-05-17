@@ -1,0 +1,8 @@
+.editorconfig
+
+node_modules
+
+.env
+
+# data/*
+# !data/.gitkeep
